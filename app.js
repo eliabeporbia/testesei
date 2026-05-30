@@ -13,13 +13,12 @@ const licencas = {
         expiracao: "2026-12-31",
         corretora: "FTMO"
     },
-    // Exemplo de cliente mensal
-    "12345678": {
-        chave: "CLIENTE123",
-        plano: "mensal",
-        expiracao: "2026-06-30",
-        corretora: "MetaTrader"
-    }
+    "61535031": {    // ← 🔥 SUA NOVA CONTA (PEPPERSTONE)
+        chave: "ABC123-XYZ789",     // ← MESMA CHAVE
+        plano: "anual",
+        expiracao: "2026-12-31",
+        corretora: "Pepperstone"
+    },
 };
 
 // ============================================
